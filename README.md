@@ -1,1 +1,2 @@
 # PalatePalette
+Manage your recipes !
